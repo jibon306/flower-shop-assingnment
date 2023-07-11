@@ -1,0 +1,70 @@
+.header{
+
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+    background: rgba(229, 84, 115, 0.10);
+
+
+
+}
+
+
+
+
+
+ nav{ 
+    margin: 20px 40px 60px 150px;
+    padding: 40px 150px;
+   
+
+   
+}
+
+
+.text-bold{
+    color: #272727;
+
+font-family: 'Open Sans', sans-serif;
+font-size: 60px;
+font-weight: 400;
+
+
+
+
+}
+
+
+.bold-discription{
+
+}
+
+
+.btn-color{
+ border-radius: 8px;
+background: #E55473;
+
+
+
+padding: 20px 43px;
+
+gap: 10px;
+
+
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+
+
+
+}
+
+
+
+.profile-pic{
+    margin-top: 50px;
+    width: 500px;
+height: 600px;
+
+}
