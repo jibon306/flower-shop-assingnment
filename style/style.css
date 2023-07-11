@@ -15,8 +15,8 @@
 
 
  nav{ 
-    margin: 20px 40px 60px 150px;
-    padding: 40px 150px;
+   
+    padding: 30px 150px;
    
 
    
@@ -29,7 +29,7 @@
 font-family: 'Open Sans', sans-serif;
 font-size: 60px;
 font-weight: 400;
-
+margin-bottom: 15px;
 
 
 
@@ -37,6 +37,8 @@ font-weight: 400;
 
 
 .bold-discription{
+    color: rgba(39, 39, 39, 0.60);
+
 
 }
 
@@ -64,7 +66,157 @@ font-weight: 700;
 
 .profile-pic{
     margin-top: 50px;
+    margin-right: 60px;
     width: 500px;
 height: 600px;
 
 }
+
+
+.flex-text{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.our{
+    color: #272727;
+
+
+font-size: 40px;
+
+font-weight: 800;
+}
+
+.it-is-a-long{
+    color: rgba(39, 39, 39, 0.60);
+ margin-top: 0px;
+font-size: 15px;
+font-weight: 300;
+
+}
+
+
+
+.background-color{
+    border-radius: 270px 270px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 350px;
+height: 450px;
+flex-shrink: 0;
+}
+
+.background-color-a{
+    border-radius: 250px 250px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 350px;
+height: 450px;
+flex-shrink: 0;
+
+}
+
+.background-color-b {
+    border-radius: 250px 250px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+
+width: 350px;
+height: 450px;
+flex-shrink: 0;
+}
+
+
+
+
+.pic-bk-color-1{
+
+    width: 290px ;
+    height: 450px;
+    
+
+}
+
+
+
+.pic-bk-color-2{
+    width: 300px;
+height: 450px;
+margin-left: 20px;
+
+
+}
+
+.pic-bk-color-3{
+    width: 330px;
+    height: 450px;
+    flex-shrink: 0;
+
+}
+
+
+.flex-img{
+    display: flex;
+    margin-top: 30px;
+
+    align-items: center;
+justify-content: space-around;
+
+ 
+
+    
+ }
+
+
+ .p{
+    margin-top: 1px;
+
+    color: #272727;
+
+
+text-align: center;
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*.background-color{
+    border-radius: 250px 250px 0px 0px;
+
+width: 350px;
+height: 400px;
+
+
+}
+
+.background-color-a{
+    border-radius: 250px 250px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+.background-color-b{
+
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+
+}
+
+
+.pic-bk-color{
+
+
+    width: 50%;
+    height: 50%;
+
+}
+
+
